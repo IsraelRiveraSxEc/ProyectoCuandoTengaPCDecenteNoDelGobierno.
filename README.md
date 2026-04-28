@@ -36,7 +36,7 @@
 | Red    | ⚙️     |
 | UI     | ⚙️     |
 
-![Status](https://img.shields.io/badge/status-en desarrollo-brightyellow)
+![Estado](https://img.shields.io/badge/estado-en%20futuro%20desarrollo-red)
 
 <details>
 <summary>Ver más detalles</summary>
