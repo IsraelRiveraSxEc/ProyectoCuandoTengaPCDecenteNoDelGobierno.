@@ -26,8 +26,6 @@
 - ... emergentes
 - ... simulada
 
-![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-
 ## 📊 Estado del Proyecto
 
 | Sistema | Estado |
@@ -48,4 +46,10 @@ El proyecto...:
 
 </details>
 
-Copyright (c) 2026 Nelson Espinosa Todos los derechos reservados. Prohibida la distribución o uso comercial.
+## 🤝 Colaboración
+Este proyecto es privado y no es open source.
+Colaboraciones pueden ser consideradas bajo permiso del autor.
+## ⚠️ Propiedad intelectual
+Todo el código, arte y sistemas son propiedad de Nelson Espinosa.
+
+Copyright (c) 2026 Nelson Espinosa. All rights reserved.
