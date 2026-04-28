@@ -1,1 +1,2 @@
-#Gestion de entidades ECS
+/* Gestion de entidades ECS */
+
