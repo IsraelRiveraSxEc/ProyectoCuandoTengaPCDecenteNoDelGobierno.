@@ -1,0 +1,1 @@
+/*incronización de mundo compartido*/

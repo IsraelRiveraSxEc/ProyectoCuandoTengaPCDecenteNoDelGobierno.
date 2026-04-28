@@ -1,0 +1,32 @@
+# Unity folders to ignore
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# VS code / R
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Builds
+*.apk
+*.aab
+
+# Allow meta files for Unity 
+*.meta

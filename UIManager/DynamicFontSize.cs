@@ -1,0 +1,1 @@
+/*Ajuste automático según resolución*/
